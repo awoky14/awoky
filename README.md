@@ -33,4 +33,4 @@
 
 * Discord: `.awoky`
 * Email: [awokyss@gmail.com](mailto:awokyss@gmail.com)
-* GitHub: [https://github.com/awoky](https://github.com/awoky)
+* GitHub: [https://github.com/awoky](https://github.com/awoky14)
