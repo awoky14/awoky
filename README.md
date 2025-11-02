@@ -24,8 +24,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awoky\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awoky\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awoky14\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awoky14\&layout=compact\&theme=tokyonight)
 
 ---
 
